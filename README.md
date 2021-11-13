@@ -1,4 +1,4 @@
-# regression_project
+# Regression_modelSingleNeuronActivity
 
 Using multiple regression models to model the activity of single neurons
 Examples include :
